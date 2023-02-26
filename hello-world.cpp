@@ -7,7 +7,7 @@
 #define all(l) l.begin(), l.end()
 #define binzro(seq,m,n,k) seq.resize(m,k), seq.assign(n,k) 
 
-#define MAX 3e+5
+#define MAX 1e3+5
 
 using namespace std;
 
